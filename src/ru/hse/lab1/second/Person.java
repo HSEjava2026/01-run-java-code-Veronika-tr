@@ -1,5 +1,10 @@
 package ru.hse.lab1.second;
-
+/**
+ * Описание человека
+ * @author Гусева Вероника Владимироовна
+ * @version 1.0
+ * @since 2026
+ */
 public class Person {
     private String name;
     private int age;
